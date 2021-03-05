@@ -1,0 +1,725 @@
+{C:/Users/Computer/Desktop/BTL KTSNC/negAaddB_check_tb.vhd} {2 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/negAaddB_check_tb.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity negAaddB_check_tb
+-- Compiling architecture tb of negAaddB_check_tb
+** Warning: C:/Users/Computer/Desktop/BTL KTSNC/negAaddB_check_tb.vhd(25): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/mux2to1.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/mux2to1.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux2to1
+-- Compiling architecture behv of mux2to1
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/vedic_8bit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/vedic_8bit.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity vedic_8bit
+-- Compiling architecture struc of vedic_8bit
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/shiftright24bit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/shiftright24bit.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity shiftright24bit
+-- Compiling architecture struc of shiftright24bit
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/adder12bit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/adder12bit.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity adder12bit
+-- Compiling architecture struc of adder12bit
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/AsubB_check.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/AsubB_check.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity AsubB_check
+-- Compiling architecture struc of AsubB_check
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/adder4bit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/adder4bit.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity adder4bit
+-- Compiling architecture struc of adder4bit
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/compl2_8bit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/compl2_8bit.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity compl2_8bit
+-- Compiling architecture struc of compl2_8bit
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/AdivB_check.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/AdivB_check.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity AdivB_check
+-- Compiling architecture struc of AdivB_check
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/adder32bit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/adder32bit.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity adder32bit
+-- Compiling architecture struc of adder32bit
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/shiftleft48bit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/shiftleft48bit.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity shiftleft48bit
+-- Compiling architecture struc of shiftleft48bit
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/AaddB.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/AaddB.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity AaddB
+-- Compiling architecture struc of AaddB
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/MULMODULE.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/MULMODULE.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity MULMODULE
+-- Compiling architecture struc of MULMODULE
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/SUBMODULE_tb.vhd} {2 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/SUBMODULE_tb.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity SUBMODULE_tb
+-- Compiling architecture tb of SUBMODULE_tb
+** Warning: C:/Users/Computer/Desktop/BTL KTSNC/SUBMODULE_tb.vhd(24): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/mux4to1_32bit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/mux4to1_32bit.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux4to1_32bit
+-- Compiling architecture struc of mux4to1_32bit
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/MULMODULE_vedic.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/MULMODULE_vedic.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity MULMODULE_vedic
+-- Compiling architecture struc of MULMODULE_vedic
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/AdivB.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/AdivB.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity AdivB
+-- Compiling architecture struc of AdivB
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/AmulB_check.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/AmulB_check.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity AmulB_check
+-- Compiling architecture struc of AmulB_check
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/subtracter.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/subtracter.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity subtracter
+-- Compiling architecture dataflow of subtracter
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/ADDMODULE.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/ADDMODULE.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ADDMODULE
+-- Compiling architecture struc of ADDMODULE
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/firstbit1.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/firstbit1.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity firstbit1
+-- Compiling architecture struc of firstbit1
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/shiftleft48bit_tb.vhd} {2 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/shiftleft48bit_tb.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity shiftleft48bit_tb
+-- Compiling architecture tb of shiftleft48bit_tb
+** Warning: C:/Users/Computer/Desktop/BTL KTSNC/shiftleft48bit_tb.vhd(25): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/MULMODULE_tb.vhd} {2 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/MULMODULE_tb.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity MULMODULE_tb
+-- Compiling architecture tb of MULMODULE_tb
+** Warning: C:/Users/Computer/Desktop/BTL KTSNC/MULMODULE_tb.vhd(25): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/AaddB_tb.vhd} {2 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/AaddB_tb.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity AaddB_tb
+-- Compiling architecture tb of AaddB_tb
+** Warning: C:/Users/Computer/Desktop/BTL KTSNC/AaddB_tb.vhd(24): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/mux2to1_48bit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/mux2to1_48bit.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux2to1_48bit
+-- Compiling architecture behv of mux2to1_48bit
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/compare8bit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/compare8bit.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity compare8bit
+-- Compiling architecture struc of compare8bit
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/vedic_16bit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/vedic_16bit.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity vedic_16bit
+-- Compiling architecture struc of vedic_16bit
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/AsubB_tb.vhd} {2 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/AsubB_tb.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity AsubB_tb
+-- Compiling architecture tb of AsubB_tb
+** Warning: C:/Users/Computer/Desktop/BTL KTSNC/AsubB_tb.vhd(26): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/ALU.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/ALU.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ALU
+-- Compiling architecture struc of ALU
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/negAaddB_check.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/negAaddB_check.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity negAaddB_check
+-- Compiling architecture struc of negAaddB_check
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/ADDMODULE_tb.vhd} {2 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/ADDMODULE_tb.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ADDMODULE_tb
+-- Compiling architecture tb of ADDMODULE_tb
+** Warning: C:/Users/Computer/Desktop/BTL KTSNC/ADDMODULE_tb.vhd(24): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/AsubB_check_tb.vhd} {2 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/AsubB_check_tb.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity AsubB_check_tb
+-- Compiling architecture tb of AsubB_check_tb
+** Warning: C:/Users/Computer/Desktop/BTL KTSNC/AsubB_check_tb.vhd(24): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/AmulB_vedic_check.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/AmulB_vedic_check.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity AmulB_vedic_check
+-- Compiling architecture struc of AmulB_vedic_check
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/DIVMODULE.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/DIVMODULE.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity DIVMODULE
+-- Compiling architecture struc of DIVMODULE
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/shiftleft1bit_12bit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/shiftleft1bit_12bit.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity shiftleft1bit_12bit
+-- Compiling architecture behv of shiftleft1bit_12bit
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/mux48to1.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/mux48to1.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux48to1
+-- Compiling architecture behv of mux48to1
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/adder48bit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/adder48bit.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity adder48bit
+-- Compiling architecture struc of adder48bit
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/shiftbydif.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/shiftbydif.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity shiftbydif
+-- Compiling architecture struc of shiftbydif
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/vedic_4bit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/vedic_4bit.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity vedic_4bit
+-- Compiling architecture struc of vedic_4bit
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/AaddB_check_tb.vhd} {2 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/AaddB_check_tb.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity AaddB_check_tb
+-- Compiling architecture tb of AaddB_check_tb
+** Warning: C:/Users/Computer/Desktop/BTL KTSNC/AaddB_check_tb.vhd(24): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/shiftleft24bit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/shiftleft24bit.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity shiftleft24bit
+-- Compiling architecture struc of shiftleft24bit
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/mux2to1_8bit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/mux2to1_8bit.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux2to1_8bit
+-- Compiling architecture struc of mux2to1_8bit
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/SUBMODULE.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/SUBMODULE.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity SUBMODULE
+-- Compiling architecture struc of SUBMODULE
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/muxshift.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/muxshift.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity muxshift
+-- Compiling architecture struc of muxshift
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/AaddB_check.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/AaddB_check.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity AaddB_check
+-- Compiling architecture struc of AaddB_check
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/mux4to1_32bit_tb.vhd} {2 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/mux4to1_32bit_tb.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux4to1_32bit_tb
+-- Compiling architecture tb of mux4to1_32bit_tb
+** Warning: C:/Users/Computer/Desktop/BTL KTSNC/mux4to1_32bit_tb.vhd(29): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/mux2to1_24bit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/mux2to1_24bit.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux2to1_24bit
+-- Compiling architecture behv of mux2to1_24bit
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/subtracter25bit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/subtracter25bit.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity subtracter25bit
+-- Compiling architecture struc of subtracter25bit
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/adder16bit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/adder16bit.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity adder16bit
+-- Compiling architecture struc of adder16bit
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/shiftleft_tb.vhd} {2 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/shiftleft_tb.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity shiftleft_tb
+-- Compiling architecture tb of shiftleft_tb
+** Warning: C:/Users/Computer/Desktop/BTL KTSNC/shiftleft_tb.vhd(25): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/subtracter8bit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/subtracter8bit.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity subtracter8bit
+-- Compiling architecture struc of subtracter8bit
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/mux_tb.vhd} {2 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/mux_tb.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux_tb
+-- Compiling architecture tb of mux_tb
+** Warning: C:/Users/Computer/Desktop/BTL KTSNC/mux_tb.vhd(58): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/adder8bit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/adder8bit.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity adder8bit
+-- Compiling architecture struc of adder8bit
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/AmulB_vedic.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/AmulB_vedic.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity AmulB_vedic
+-- Compiling architecture struc of AmulB_vedic
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/vedic_2bit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/vedic_2bit.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity vedic_2bit
+-- Compiling architecture behv of vedic_2bit
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/mux2to1_23bit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/mux2to1_23bit.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux2to1_23bit
+-- Compiling architecture struc of mux2to1_23bit
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/smallALU.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/smallALU.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity smallALU
+-- Compiling architecture struc of smallALU
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/subtracter24bit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/subtracter24bit.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity subtracter24bit
+-- Compiling architecture struc of subtracter24bit
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/vedic_32bit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/vedic_32bit.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity vedic_32bit
+-- Compiling architecture struc of vedic_32bit
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/add3_4bit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/add3_4bit.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity add3_4bit
+-- Compiling architecture struc of add3_4bit
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/AdivB_check_tb.vhd} {2 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/AdivB_check_tb.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity AdivB_check_tb
+-- Compiling architecture tb of AdivB_check_tb
+** Warning: C:/Users/Computer/Desktop/BTL KTSNC/AdivB_check_tb.vhd(23): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/compl2_24bit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/compl2_24bit.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity compl2_24bit
+-- Compiling architecture struc of compl2_24bit
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/mux4to1.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/mux4to1.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux4to1
+-- Compiling architecture behv of mux4to1
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/fulladder.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/fulladder.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity fulladder
+-- Compiling architecture struct of fulladder
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/subtracter23bit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/subtracter23bit.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity subtracter23bit
+-- Compiling architecture struc of subtracter23bit
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/mux2to1_32bit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/mux2to1_32bit.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux2to1_32bit
+-- Compiling architecture behv of mux2to1_32bit
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/mux24to1.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/mux24to1.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux24to1
+-- Compiling architecture behv of mux24to1
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/negAsubB_check.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/negAsubB_check.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity negAsubB_check
+-- Compiling architecture struc of negAsubB_check
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/adder6bit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/adder6bit.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity adder6bit
+-- Compiling architecture struc of adder6bit
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/AsubB.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/AsubB.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity AsubB
+-- Compiling architecture struc of AsubB
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/adder24bit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/adder24bit.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity adder24bit
+-- Compiling architecture struc of adder24bit
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/AmulB_tb.vhd} {2 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/AmulB_tb.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity AmulB_tb
+-- Compiling architecture tb of AmulB_tb
+** Warning: C:/Users/Computer/Desktop/BTL KTSNC/AmulB_tb.vhd(25): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/Logic_gate.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/Logic_gate.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity NOT_GATE
+-- Compiling architecture behv of NOT_GATE
+-- Compiling entity XOR_GATE
+-- Compiling architecture behv of XOR_GATE
+-- Compiling entity OR_GATE
+-- Compiling architecture behv of OR_GATE
+-- Compiling entity AND_GATE
+-- Compiling architecture behv of AND_GATE
+-- Compiling entity AND_3in_GATE
+-- Compiling architecture struct of AND_3in_GATE
+-- Compiling entity OR_4in_GATE
+-- Compiling architecture struct of OR_4in_GATE
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/testbench.vhd} {2 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/testbench.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity testbench
+-- Compiling architecture tb of testbench
+** Warning: C:/Users/Computer/Desktop/BTL KTSNC/testbench.vhd(27): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/Computer/Desktop/BTL KTSNC/testbench.vhd(31): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/Computer/Desktop/BTL KTSNC/testbench.vhd(35): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/Computer/Desktop/BTL KTSNC/testbench.vhd(39): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/AmulB.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/AmulB.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity AmulB
+-- Compiling architecture struc of AmulB
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/negAsubB_check_tb.vhd} {2 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/negAsubB_check_tb.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity negAsubB_check_tb
+-- Compiling architecture tb of negAsubB_check_tb
+** Warning: C:/Users/Computer/Desktop/BTL KTSNC/negAsubB_check_tb.vhd(24): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/shiftleft1bit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/shiftleft1bit.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity shiftleft1bit
+-- Compiling architecture behv of shiftleft1bit
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/mux2to1_4bit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/mux2to1_4bit.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux2to1_4bit
+-- Compiling architecture struc of mux2to1_4bit
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/AmulB_check_tb.vhd} {2 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/AmulB_check_tb.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity AmulB_check_tb
+-- Compiling architecture tb of AmulB_check_tb
+** Warning: C:/Users/Computer/Desktop/BTL KTSNC/AmulB_check_tb.vhd(24): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/AequalB.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/AequalB.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity AequalB
+-- Compiling architecture struc of AequalB
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/subtracter32bit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/subtracter32bit.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity subtracter32bit
+-- Compiling architecture struc of subtracter32bit
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/AdivB_tb.vhd} {2 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/AdivB_tb.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity AdivB_tb
+-- Compiling architecture tb of AdivB_tb
+** Warning: C:/Users/Computer/Desktop/BTL KTSNC/AdivB_tb.vhd(23): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/dacbiet.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/dacbiet.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity dacbiet
+-- Compiling architecture struc of dacbiet
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/encoder24bit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/encoder24bit.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity encoder24bit
+-- Compiling architecture behv of encoder24bit
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/compare1bit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/compare1bit.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity compare1bit
+-- Compiling architecture behv of compare1bit
+
+} {} {}} {C:/Users/Computer/Desktop/BTL KTSNC/binarytobcd_8bit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Computer/Desktop/BTL KTSNC/binarytobcd_8bit.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity binarytobcd_8bit
+-- Compiling architecture struc of binarytobcd_8bit
+
+} {} {}}
